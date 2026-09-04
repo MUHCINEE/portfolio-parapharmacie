@@ -175,8 +175,7 @@ html[dir="rtl"] .nav-link-item::after { left: auto; right: 0; }
 html[data-theme="dark"] .theme-toggle .icon-sun { display: none; }
 html[data-theme="dark"] .theme-toggle .icon-moon { display: block; }
 
-.nav-toggle { display: none; background: none; border: none; cursor: pointer; flex-direction: column; gap: 4px; }
-.nav-toggle span { width: 20px; height: 2px; background: var(--text-primary); }
+
 
 /* HERO SECTION (CENTERED & PROPORTIONAL) */
 .hero { padding: 80px 0 60px 0; }
